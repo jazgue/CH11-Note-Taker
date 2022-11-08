@@ -9,4 +9,4 @@ The following image shows the appearance of the HTML webpage generated:
 
 # Links
 
-https://git.heroku.com/lit-stream-36281.git
+https://lit-stream-36281.herokuapp.com/
